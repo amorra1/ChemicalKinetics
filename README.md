@@ -1,4 +1,4 @@
-<h1>Linked List Practice</h1>
+<h1>Chemical Kinetics Program</h1>
 
 <h2>Problem Description</h2>
 Project consists of simple recursive function that takes in ammonia and and oxygen concentrations from the user. It then performs a series of operations to calculate flow rate, reaction rate, and updated concentration rates. The completion of the exercise demonstrates the understanding and use of recursive functions.
