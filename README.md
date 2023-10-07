@@ -18,5 +18,5 @@ Project consists of simple recursive function that takes in ammonia and and oxyg
 
 <p align="center">Terminal Output:</p>
 <p align="center">
-  <img src="./Photos/LinkedListOutput.png" alt="Alt Text" width="1100" height="300">
+  <img src="./photos/ChemicalKineticsOutput.png" alt="Alt Text" width="1100" height="300">
 </p>
